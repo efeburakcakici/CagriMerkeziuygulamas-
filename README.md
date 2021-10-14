@@ -1,1 +1,1 @@
-# CagriMerkeziuygulamas-
+Cagri Merkezi Uygulamasi
